@@ -1,7 +1,7 @@
 
-<img src="https://xbilgi.com/wp-content/uploads/2019/01/sevinmek.gif">
+<a href="#"><img width="100%" height="auto" src="https://xbilgi.com/wp-content/uploads/2019/01/sevinmek.gif" height="175px"/></a>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Doğukan</h1>
-### Hi there 👋 I am Doğukan. Welcome to my GitHub page
+<h3 align="center">I'm a Computer Engineer from Turkey.</h3>
 ---
 :bowtie: 
 
