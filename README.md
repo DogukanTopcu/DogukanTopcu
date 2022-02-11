@@ -1,6 +1,8 @@
+
+<h1 align="center">Hi Welcome to my space</h1>
 ### Hi there 👋 I am Doğukan. Welcome to my GitHub page
 ---
-
+:bowtie: 
 
 | <img src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg" width=50> 
 <img src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg" width=50> |
