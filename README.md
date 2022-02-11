@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Doğukan. Welcome to my GitHub page
 ---
+> Twitter.: https://twitter.com/dogukantopcu35
+> Linkedin.: https://www.linkedin.com/in/do%C4%9Fukan-top%C3%A7u-367b24220/
 <!--
 **DogukanTopcu/DogukanTopcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
