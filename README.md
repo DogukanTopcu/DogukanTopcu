@@ -2,7 +2,8 @@
 <a href="#"><img width="100%" height="auto" src="https://xbilgi.com/wp-content/uploads/2019/01/sevinmek.gif" height="175px"/></a>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Doğukan</h1>
 <h3 align="center"> I'm a developer from Turkey. :bowtie:</h3>
----
+
+
 ## 🙋‍♂️ About Me
 - :school_satchel: I am a computer engineering student in Izmir Institute of Technology.
 
