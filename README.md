@@ -1,5 +1,5 @@
 
-<img src="https://xbilgi.com/wp-content/uploads/2019/01/sevinmek.gif" align="center">
+<img src="https://xbilgi.com/wp-content/uploads/2019/01/sevinmek.gif">
 <h1 align="center">Hi Welcome to my space</h1>
 ### Hi there 👋 I am Doğukan. Welcome to my GitHub page
 ---
