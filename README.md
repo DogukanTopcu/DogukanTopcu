@@ -1,6 +1,6 @@
 
 <img src="https://xbilgi.com/wp-content/uploads/2019/01/sevinmek.gif">
-<h1 align="center">Hi Welcome to my space</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Doğukan</h1>
 ### Hi there 👋 I am Doğukan. Welcome to my GitHub page
 ---
 :bowtie: 
