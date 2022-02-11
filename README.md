@@ -1,7 +1,12 @@
 ### Hi there 👋 I am Doğukan. Welcome to my GitHub page
 ---
-![My Space](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg)
+
+|<img src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg" width=50> | 
+<img src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg" width=50> |
+
 <!--
+![My Space](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg)
+
 | Social | Link |
 |---|---|
 | Twitter | [dogukantopcu35](https://twitter.com/dogukantopcu35) |
