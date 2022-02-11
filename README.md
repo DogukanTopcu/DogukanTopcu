@@ -1,5 +1,5 @@
 
-<div align="center" class="tenor-gif-embed" data-postid="4299343" data-share-method="host" data-aspect-ratio="2.21239" data-width="100%"><a href="https://tenor.com/view/-gif-4299343">GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/scCp.gif" align="center">
 <h1 align="center">Hi Welcome to my space</h1>
 ### Hi there 👋 I am Doğukan. Welcome to my GitHub page
 ---
