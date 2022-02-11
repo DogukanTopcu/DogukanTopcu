@@ -4,6 +4,7 @@
 <h3 align="center"> I'm a developer from Turkey. :bowtie:</h3>
 
 <br/>
+
 ## 🙋‍♂️ About Me
 - :school_satchel: I am a computer engineering student in Izmir Institute of Technology.
 - 👨‍💻 I am interested in Web Development, Game Development, Data Structures and Algorithms.
@@ -11,6 +12,7 @@
 - 📫 How to reach me: dogukantopcu35@gmail.com
 
 <br/>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -28,6 +30,7 @@
 </p>
 
 <br/>
+
 ## Connect with me:
 <p align="left">
 
