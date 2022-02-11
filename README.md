@@ -1,9 +1,9 @@
 
 <a href="#"><img width="100%" height="auto" src="https://xbilgi.com/wp-content/uploads/2019/01/sevinmek.gif" height="175px"/></a>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Doğukan</h1>
-<h3 align="center">I'm a Computer Engineer from Turkey.</h3>
+<h3 align="center"> :bowtie: I'm a developer from Turkey.</h3>
 ---
-:bowtie: 
+
 
 | <img src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg" width=50> 
 <img src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg" width=50> |
