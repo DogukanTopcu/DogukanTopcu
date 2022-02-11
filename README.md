@@ -3,11 +3,14 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Doğukan</h1>
 <h3 align="center"> I'm a developer from Turkey. :bowtie:</h3>
 
-
+<br/>
 ## 🙋‍♂️ About Me
 - :school_satchel: I am a computer engineering student in Izmir Institute of Technology.
+- 👨‍💻 I am interested in Web Development, Game Development, Data Structures and Algorithms.
+- 👯 I’m looking to collaborate on Web Development and Game Development
+- 📫 How to reach me: dogukantopcu35@gmail.com
 
-
+<br/>
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -21,26 +24,23 @@
   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <a href="https://unity.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/unity.png"/> </a> 
-  <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a> 
-  
-   
+  <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>   
 </p>
 
-| <img src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg" width=50> 
-<img src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg" width=50> |
+<br/>
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/do%C4%9Fukan-top%C3%A7u-367b24220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/dogukantopcu35"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+</p>
 
 <!--
-![My Space](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg)
-
-| Social | Link |
-|---|---|
-| Twitter | [dogukantopcu35](https://twitter.com/dogukantopcu35) |
-| Linkedin | [Doğukan Topçu](https://www.linkedin.com/in/do%C4%9Fukan-top%C3%A7u-367b24220/) |
--->
 
 > Twitter.: [dogukantopcu35](https://twitter.com/dogukantopcu35)
 
 > Linkedin.: [Doğukan Topçu](https://www.linkedin.com/in/do%C4%9Fukan-top%C3%A7u-367b24220/)
 
-
+-->
 
